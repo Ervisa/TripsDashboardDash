@@ -1,1 +1,1 @@
-# Dashboard showing trips data in dash
+# Dashboard showing trips data
