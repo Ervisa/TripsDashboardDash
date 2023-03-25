@@ -1,1 +1,1 @@
-# trips_dashboard_in_dash
+# Dashboard showing trips data in dash
